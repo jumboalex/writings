@@ -1,0 +1,3 @@
+[submodule "jumbo-space/themes/beautifulhugo"]
+	path = jumbo-space/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jumbo&#39;s Hut</title>
+    <link>https://jumboalex.github.io/post/</link>
+    <description>Recent content in Posts on Jumbo&#39;s Hut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@domain.com (Jumbo Chow)</managingEditor>
+    <webMaster>youremail@domain.com (Jumbo Chow)</webMaster>
+    <lastBuildDate>Tue, 30 Jan 2024 21:46:31 -0800</lastBuildDate>
+    <atom:link href="https://jumboalex.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://jumboalex.github.io/post/test/</link>
+      <pubDate>Tue, 30 Jan 2024 21:46:31 -0800</pubDate><author>youremail@domain.com (Jumbo Chow)</author>
+      <guid>https://jumboalex.github.io/post/test/</guid>
+      <description>第一篇测试博文，随便写点，可以测试搭建hugo博客平台就行。&#xA;今天早上还是忍不住在小区跑了半个小时，虽然时间不长，不过还是很满意。小区坡确实多，一开始还比较担心itband会不会有问题，不过貌似没毛病。以后可以考虑在小区里练跑坡，应该效果不错。&#xA;既然开始写了，希望能坚持经常写点什么！加油</description>
+    </item>
+  </channel>
+</rss>
