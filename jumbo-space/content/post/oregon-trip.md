@@ -1,6 +1,7 @@
 ---
 title: '感恩节俄勒冈游记'
 date: 2024-01-30T23:15:29-08:00
+draft: false
 tags: ["travel"]
 ---
 
