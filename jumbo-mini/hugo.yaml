@@ -1,6 +1,6 @@
 baseURL: https://jumboalex.github.io/ 
 languageCode: en-us
-title: Jumbo Mini
+title: Jumbo Space
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
@@ -25,7 +25,7 @@ markup:
     guessSyntax: true
     style: emacs
   tableOfContents:
-    endLevel: 3
+    endLevel: 4
     ordered: false
     startLevel: 2
   # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
@@ -37,7 +37,7 @@ markup:
 social:
   # e.g.
   github: https://github.com/jumboalex
-  twitter: https://twitter.com/jumboalexchow
+  #twitter: https://twitter.com/jumboalexchow
   #stackoverflow: your-stackoverflow-link
   # facebook: your-facebook-link
 
@@ -47,9 +47,9 @@ params:
   # Site Author
   author: jumbo chow
   # Author biography
-  bio: Software Engineer
+  bio: SDE
   # Site Description, used in HTML meat
-  description: Jumbo's Notes
+  description: Jumbo's Writings
 
 
   ###########################################
