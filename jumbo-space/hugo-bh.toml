@@ -1,5 +1,5 @@
 baseurl = "https://jumboalex.github.io/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "en-us"
 title = "Jumbo's Hut"
 # Using theme as git submodule 
 theme = "beautifulhugo"
@@ -50,14 +50,14 @@ pygmentsCodefencesGuessSyntax = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Jumbo Chow"
 #  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  email = "zhengbo.zhou@gmail.com"
 #  facebook = "username"
 #  github = "username"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"
 #  reddit = "username"
-  linkedin = "username"
+  linkedin = "www.linkedin.com/in/zhengbo-zhou-40a49b4"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "username"
@@ -78,7 +78,7 @@ pygmentsCodefencesGuessSyntax = true
 #  slack = "username"
 #  medium = "username"
 #  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
+  strava = "jumbo_chow"
 
 [[menu.main]]
     name = "Blog"
