@@ -1,6 +1,6 @@
 +++
 title = "Jumbo的个人博客"
-description = "Hugo, the world's fastest framework for building websites"
+description = "记录Jumbo的一些日常和想法"
 date = "2024-01-30"
 aliases = ["about-us", "contact"]
 author = "jumbo chow"
