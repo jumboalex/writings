@@ -7,3 +7,6 @@
 [submodule "jumbo-stack/themes/hugo-theme-stack"]
 	path = jumbo-stack/themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "jumbo-space/themes/hugo-theme-stack"]
+	path = jumbo-space/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
