@@ -1,12 +1,6 @@
-[submodule "jumbo-space/themes/beautifulhugo"]
-	path = jumbo-space/themes/beautifulhugo
-	url = https://github.com/halogenica/beautifulhugo.git
 [submodule "jumbo-mini/themes/mini"]
 	path = jumbo-mini/themes/mini
 	url = https://github.com/nodejh/hugo-theme-mini.git
-[submodule "jumbo-stack/themes/hugo-theme-stack"]
-	path = jumbo-stack/themes/hugo-theme-stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack/
 [submodule "jumbo-space/themes/hugo-theme-stack"]
 	path = jumbo-space/themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
